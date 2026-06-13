@@ -1,0 +1,1091 @@
+Good — let’s brainstorm properly. I’ll throw out many directions, then we narrow using the real scoring rules (初审 adds + 终审 4 dimensions).
+
+Think of this as a 60-minute whiteboard session. React with: love / maybe / no on any idea.
+
+Brainstorming: Tabbit 妙招大赛 × 你的优势
+Your constraints (the box we’re thinking inside)
+Fact	Implication
+3 tracks, 3 separate ¥10k champions
+Pick one main track, maybe one side bet
+初审 = top 20% by adds (June 6–30)
+Need shareable + works on first add
+终审 = 创意30 + 功能30 + 传播20 + 体验20
+Need unique + stable + polished
+You = student + Poke + DHU data + Multi-Agent
+Campus + Agent + real product is your lane
+~18 days left to submit & drive adds
+Don’t overbuild — one sharp wedge
+Part 1: Wild ideas (don’t filter yet)
+A. 任务赛道 — “Decision / Action” family
+#	Idea	One-line hook	Why it might win
+A1
+校园机会决策台
+5个官网 → 今天3件事
+Core Poke story; 决策 not 摘要
+A2
+Deadline 雷达
+只盯「要截止的事」
+Extreme focus; high anxiety = high adds
+A3
+班委一键发群
+通知页 → 微信群公告格式
+班委 = daily user, easy viral in one class
+A4
+奖助/竞赛匹配器
+按专业/GPA目标筛机会
+Personal relevance = 创意分
+A5
+破壳每日一推
+每天1条「你从不看的信息」
+Unique 破壳 IP; weak alone, strong as module
+A6
+群聊垃圾过滤器
+粘贴群聊 → 去掉哈哈哈
+Matches original Poke MVP; compliance-safe
+A7
+社团运营台
+活动/招新/搭子三类输出
+Narrow user, deep value
+A8
+实习/竞赛 DDL 日历
+输出「未来14天deadline表」
+Practical, exportable
+A9
+Multi-Agent 决策台
+4 agents: 读→分→排→写
+Meta story for 陈祥; risky if unstable
+A10
+新生入学 Survival Kit
+9月版：报到/选课/奖助清单
+Seasonal; maybe late for June contest
+B. 脚本赛道 — “See it instantly” family
+#	Idea	Hook	Why
+B1
+官网 deadline 倒计时
+通知列表页显示「还剩X天」
+Visual Before/After; drives adds
+B2
+通知页阅读模式
+去导航/广告，大字+目录
+GenJi-friendly tutorial
+B3
+一键复制群公告
+每条通知旁「复制班群版」
+Pairs with A3
+B4
+二手/搭子高亮
+在校园论坛页高亮关键词
+Fun + visible
+B5
+竞赛/奖助标签染色
+自动给标题打色标
+Works on DHU pages you already scrape
+C. 提示词赛道 — “Fast to ship” family
+#	Idea	Hook	Risk
+C1
+群聊→行动卡片
+粘贴 → 结构化
+Crowded track
+C2
+通知→SMART行动
+像 idea-forge 承诺格式
+Connects two products
+C3
+今日3件事筛选器
+纯 prompt 版决策台
+Weaker vs 任务版 A1
+C4
+复盘小问题生成器
+去过活动 → 1个认知问题
+Poke 复盘 tab; niche
+D. “Combo plays” (主投 + 辅投)
+Combo	Main	Side	Logic
+D1
+A1 决策台 (任务)
+B1 deadline脚本
+功能+视觉；共享同一故事
+D2
+A3 班委发群 (任务)
+B3 复制按钮 (脚本)
+同一用户群；double adds
+D3
+A2 DDL雷达 (任务)
+C2 SMART行动 (提示词)
+轻量辅投拉初审
+D4
+A9 Multi-Agent (任务)
+—
+All-in tech; high risk/reward
+Part 2: Stress-test against judges
+Quick score gut feel (not exact math):
+
+Idea	创意	功能	传播	体验	初审 adds	Champion potential
+A1 决策台
+★★★★
+★★★★
+★★★★
+★★★★
+★★★
+High
+A3 班委发群
+★★★
+★★★★★
+★★★★★
+★★★★
+★★★★★
+High (different angle)
+A2 DDL雷达
+★★★
+★★★★★
+★★★★
+★★★★
+★★★★
+Medium-high
+A9 Multi-Agent
+★★★★★
+★★★
+★★★
+★★★
+★★★
+Medium (fragile)
+B1 脚本倒计时
+★★★
+★★★★★
+★★★★★
+★★★★
+★★★★★
+Medium as main; great as side
+C1 群聊卡片
+★★
+★★★★
+★★★
+★★★
+★★★
+Low for 冠军
+Part 3: Three “product identities” to choose from
+Instead of features, pick who you are on the plaza:
+
+Identity 1 — The Decision Maker (A1)
+“I don’t summarize campus info. I tell you what to do today.”
+
+User: any student
+Emotion: relief, FOMO removed
+Tabbit fit: @ multi tabs + Agent + variables
+Poke link: direct
+Identity 2 — The 班委/社团 Hero (A3 + B3)
+“I turn official notices into ready-to-paste group messages.”
+
+User: 班委、社团负责人、助班
+Emotion: “saved 30 minutes”
+Tabbit fit: script + task; viral inside one org
+Poke link: indirect but strong distribution
+Identity 3 — The 破壳 Curator (A5 as core)
+“One thing daily that breaks your information bubble.”
+
+User: curious students
+Emotion: surprise, identity
+Tabbit fit: creative 创意分
+Risk: harder to prove 功能完整度 daily
+My lean for 冠军: Identity 1 main, steal Identity 2’s “群公告输出” as a module, optional B1 as side entry for adds.
+
+Part 4: Name brainstorm (names = adds)
+Bad names kill 初审. Good names = instant click.
+
+Style	Examples
+Outcome
+今日别错过 · 校园DDL雷达 · 三件事Enough
+Role
+班委神器 · 社团快报 · 新生生存Skill
+Emotion
+我真没招了助手 · 群聊救星 · 破壳一下
+Technical
+校园决策Agent · 机会排序Skill
+Recommended
+「今日3件事 · 校园版」 or 「校园机会决策台」
+Subtitle for description:
+
+不是摘要，是决策。引用通知页，输出今日行动 + 破壳1条 + 群公告。
+
+Part 5: “What if we go crazier?” (moonshots)
+These are brainstorm only — probably don’t ship all:
+
+「竞赛/奖助 eligibility checker」 — @ 通知 + 填条件 → “你符合/不符合 + 缺什么”
+「搭子匹配」 — 从群聊提取“找搭子”→ 格式化发帖模板
+「信息 diet 体检」 — @ 收藏夹 → 你的信息茧房报告 + 破壳推荐
+「一周 campus briefing」 — 周一自动风格 digest（变量：学校URL列表）
+「SMART承诺生成」 — 连接 idea-forge 方法论到校园行动
+「教务处通知 → Notion/飞书表格」 — export pipeline for organizers
+If you want one moonshot module inside A1: pick #1 eligibility — very judge-friendly (“unique + practical”).
+
+Part 6: What NOT to build (kill list)
+Idea	Why kill
+Full Poke mini program in Tabbit
+Wrong product form
+Auto-monitor WeChat groups
+Compliance + 功能风险
+“All universities universal AI”
+Too broad, breaks demo
+10 agents chained
+Demo fragile
+Pure English-only
+Wrong audience for adds
+Submit without promotion plan
+Dies in 初审
+Part 7: Decision framework — pick in 10 minutes
+Answer these out loud (or reply here):
+
+Q1. Who is the hero user?
+
+
+ Any student
+
+ 班委/社团
+
+ Opportunity hunters (竞赛/奖助)
+
+ Curious / 破壳 types
+Q2. Primary track?
+
+
+ 任务 (SKILL.md)
+
+ 脚本
+
+ 提示词
+Q3. Primary emotion?
+
+
+ “I won’t miss deadlines”
+
+ “I save time reposting”
+
+ “I discover something new”
+
+ “I look technically impressive”
+Q4. Second entry for adds?
+
+
+ Yes: script B1
+
+ Yes: 班委 angle
+
+ No — one perfect entry
+Q5. Demo data?
+
+
+ 东华 real pages (you have)
+
+ Generic .edu.cn + DHU example
+
+ Fictional but realistic
+Part 8: My recommended “straw man” to react to
+If we had to vote now:
+
+Main entry (任务赛道)
+Name: 校园机会决策台
+Hero user: 普通大学生
+Flow: @ 教务处/资助页 → 变量(专业/年级/目标) → 今日3 + 破壳1 + 群公告
+Moonshot module: 可选 eligibility 一句 (“你可能符合…”)
+
+Side entry (脚本赛道, optional)
+Name: 官网通知 deadline 增强
+Flow: 打开 DHU 通知列表 → 每条显示倒计时 + 颜色
+
+Promotion: 班级/社团 + #Tabbit妙招大赛 + 60s GenJi-style tutorial
+
+Reject? Love? Change hero to 班委? — tell me.
+
+Part 9: Brainstorm prompts for YOU
+To keep the session going, pick one and answer in 2–3 sentences:
+
+What’s the most painful campus info moment you personally had this semester?
+Who do you know who would instantly add this — 班委, roommate, or competitor-hunter?
+If you win ¥10k but Tabbit owns the Skill forever — what must be IN that Skill?
+What would GenJi put in the first 10 seconds of the video?
+What’s the one thing 提示词赛道 winners will all copy — and how do we NOT be that?
+How to continue this brainstorm
+Reply with any of:
+
+「Love A1 / A3 / …」 — we deep-dive that branch
+「Combine X + Y」 — we merge ideas
+「More wild / more safe」 — I shift the generator
+Answers to Q1–Q5 — I’ll return a single locked concept + SKILL outline + promo plan
+What’s your gut reaction to A1 决策台 vs A3 班委发群? That fork decides most of the rest.
+
+
+这 9 条里，不全是「独立产品创意」——有些是核心概念，有些是体验包装，有些是参赛策略。我按这个框架帮你拆清楚，并标出我认为最有创意、最值得做进妙招的是哪些。
+
+先分类：它们各自是什么
+#	你的点子	类型	是不是「独立妙招创意」
+1
+跳脱信息茧房，灵魂拷问师
+核心产品概念
+✅ 是（可作主线）
+2
+等待时的小动画
+体验细节
+❌ 不是主线（加分项）
+3
+讲故事
+传播/终审包装
+❌ 不是产品（但很重要）
+4
+解决评委的问题
+参赛策略
+❌ 不是产品
+5
+记录灵感
+功能模块
+⚠️ 可作副模块
+6
+AI 写日记、反思复盘
+核心产品概念
+✅ 是（可作主线或副线）
+7
+提升审美
+价值主张/结果
+⚠️ 更像 slogan，不是具体妙招
+8
+收集群聊消息
+数据来源/功能
+⚠️ 可作输入层，不宜当标题
+9
+提升认知
+价值主张/结果
+⚠️ 和 1、6 重复，太抽象
+我认为的「创意核心」——真正值得当主概念的只有 3 个
+⭐ 创意 A：#1 跳脱信息茧房 + 灵魂拷问师
+这是我眼中最独特、最像「冠军创意」的一条。
+
+创意与独特性 (30分)： 广场里 300+ 妙招大多是「帮你更快读信息」；你是 「帮你看见你没看见的东西，并逼你想清楚」 —— 角度完全不同。
+和 Poke 破壳模块 直接同源，不是硬贴校园。
+「灵魂拷问师」 可做成固定输出：每条破壳推荐 + 1 个拷问问题
+例：「这条活动和你专业无关，但如果你去，可能获得什么跨界能力？」
+Tabbit 形态： 任务妙招 — @ 收藏夹/常看网站 + 校园通知 → 输出「茧房报告 + 1条圈外推荐 + 3个灵魂拷问」
+
+风险： 太抽象容易像心理学鸡汤 → 必须 绑定具体网页/通知，输出要结构化。
+
+⭐ 创意 B：#6 AI 日记 + 反思复盘
+第二强，和 A 是天然一对（输入 → 行动 → 复盘）。
+
+对应 Poke 「复盘」tab 和 idea-forge 「承诺/行动」 闭环。
+实用与传播 (20分)： 学生、职场新人都能用；「今天 3 分钟复盘」比「今天 3 件事」更有情绪记忆。
+GenJi / 刘飞 类评委容易理解：教用户养成习惯。
+Tabbit 形态： 任务或提示词 — 输入「今天做了什么/看了什么」→ 输出结构化日记 + 1 个认知问题 + 明天 1 个 micro-action。
+
+和 A 的关系：
+A = 向外破茧；B = 向内复盘。合在一起是一个完整产品哲学。
+
+⭐ 创意 C：#5 记录灵感（作副模块，不当主线）
+对应 idea-forge，但是 轻量版：刷网页/群聊时一键「存灵感片段」→ 晚间汇总。
+单独做不够尖；作为 A 或 B 的第一步 很好：
+收集 → 破壳/拷问 → 复盘
+不建议单独拿 C 去冲 ¥10,000，适合塞进主 Skill 里的一章。
+
+中等创意：有用，但别当标题
+#8 收集群聊消息
+这是 Poke 的引擎，不是 用户能感知的价值。
+用户不想「收集群聊」，想「别错过 / 别瞎刷 / 知道该干嘛」。
+合规： 全自动采群聊是雷；粘贴/转发 可以，写进 SKILL 说明里当可选输入。
+用法： 作为 A/B 的 输入方式之一，不要写进妙招名字。
+
+#7 提升审美 & #9 提升认知
+这是 结果，不是 机制。
+适合写在 描述/视频结尾：
+「用 7 天，扩大你的信息 diet，提升判断力和审美。」
+评委问「具体做了什么？」答不上来就会扣分。
+用法： 当 价值叙事，不当 功能列表。
+
+体验/策略层：不是创意，但决定能不能赢
+#2 等待时的小动画
+对应终审 体验细节打磨 (20分)。
+Agent 跑任务时：破壳动画、一句「正在帮你看圈外的世界…」—— 加分，不立项。
+#3 讲故事
+终审和 妙招大使奖 的核心武器。
+故事线建议：
+「我被群消息淹没了 → 做了 Poke → 发现真正缺的不是信息，是破茧和复盘 → 这个 Skill 就是浏览器里的那一层。」
+#4 解决评委的问题
+映射到四位评委：
+评委	他们隐含的问题	你的回答
+歸藏
+美吗？清晰吗？
+#2 动画 + 固定输出模板 + 封面
+GenJi
+10 秒能教会吗？
+#3 故事 + 3 步说明
+刘飞
+真有用吗？
+#6 复盘 + #1 破茧，真实校园场景
+陈祥
+Agent 设计靠谱吗？
+任务 Skill + 清晰步骤，别堆 10 个 agent
+文凡
+像 Tabbit 原生能力吗？
+@ 标签页 + 变量 + SKILL.md
+我的判断：哪些算「我的创意建议」
+如果问 「哪些是你（AI）认为最有创意、值得押宝的」：
+
+🥇 第一梯队（主创意）
+#1 信息茧房 + 灵魂拷问师 — 最差异化
+#6 日记 + 反思复盘 — 最可持续、最易传播
+🥈 第二梯队（组成闭环）
+#5 记录灵感 — 输入层
+#8 群聊/通知收集 — 底层能力（隐藏实现）
+🥉 第三梯队（包装与加分）
+#2 等待动画 — UX
+#3 讲故事 — 传播
+#4 解决评委问题 — 策略
+#7 审美、#9 认知 — 叙事用语
+一个「合成创意」——把 9 条合成 1 个冠军向妙招
+不用 9 个产品，1 个 Skill，9 条各管一段：
+
+名字候选
+「破壳 · 灵魂拷问师」
+或 「认知日记：从信息茧房到行动复盘」
+
+一句话
+不只帮你看更多信息，帮你看 没看过的，想 没想透的，并在晚上 写进复盘。
+
+用户旅程（讲故事用）
+白天：@ 你常看的网页/通知 + 可选粘贴群聊
+  → 输出：茧房诊断 + 1条破壳推荐 + 3个灵魂拷问
+随时：一键「记灵感」（#5）
+晚上：3分钟认知日记（#6）
+  → 输出：今日收获 + 1个反思问题 + 明日1个小行动
+等待时：小动画 + 一句拷问预览（#2）
+对外：视频讲 Poke 创始人的故事（#3）
+对评审四维的覆盖
+维度	你怎么拿分
+创意 30
+#1 破茧+拷问，广场少见
+功能 30
+白天/晚上两条链路跑通；#8 写清「粘贴」而非自动爬群
+传播 20
+#6 复盘可晒；#3 故事；#Tabbit妙招大赛
+体验 20
+#2 动画；固定模板；GenJi 式 3 步
+和之前「校园机会决策台」怎么选？
+方向	优势	劣势
+校园机会决策台
+痛点清晰、DHU 数据、易演示 deadline
+创意分可能像「又一个通知工具」
+破壳·灵魂拷问师
+创意拉满、评委记得住、和你长期品牌一致
+功能分要做得非常具体，否则虚
+合成版（推荐）
+决策 + 破茧 + 复盘 一条龙
+开发稍多，要控 scope
+冲创意冠军： 以 #1 + #6 为主，校园通知当 demo 场景，不要当全部 identity。
+冲实用+传播： 保留「今日 3 件事」，加 1 条破壳 + 1 个灵魂拷问 + 晚间 3 行复盘。
+
+请你拍板（brainstorm 的下一步）
+回复一个组合即可，例如：
+
+「主：1+6，副：5，不要 8 自动采集」
+「还是校园决策为主，只加灵魂拷问模块」
+「全力 1，不要 6」
+你选定后，我可以下一条直接写：妙招名、SKILL.md 目录、60 秒故事板、每条 #1–#9 在文案里怎么各用一句话。
+
+
+下面是我自己的创意方案——不是帮你整理清单，而是：如果目标是一万块冠军 + 实习机会，我会怎么做。
+
+我的总判断
+你的 9 条里，真正能拿「创意 30 分」的只有一条主线：
+
+不是「帮你处理更多信息」，而是「帮你从信息里长出来」。
+
+广场里已经有很多：总结、抓取、效率、自动化。
+还缺一种：让人看完会停一下、想一下、愿意分享的那类妙招。
+
+所以我的方案不是 9 个功能，而是 1 个有灵魂的产品。
+
+我的主方案（如果只做一个）
+名字：「破壳拷问师」
+英文副标题（描述里用）： Break the bubble. Answer the question.
+
+一句话
+白天帮你看 没看过的；晚上逼你想 没想清楚 的。
+
+它是什么
+一个 任务妙招（SKILL.md），不是资讯工具，是 认知教练：
+
+模式	输入	输出
+破壳模式（白天）
+@ 你常看的网页 + 可选 1–2 个「圈外」页面 / 粘贴群聊
+茧房小报告 + 1 条破壳推荐 + 3 个灵魂拷问
+复盘模式（晚上）
+今天看了什么 / 做了什么 / 1 句感受
+3 行认知日记 + 1 个反思问题 + 明天 1 个 micro-action
+「记录灵感」 不做第三模式，做成中间按钮：
+任意时刻 → 「记一条」 → 晚间复盘自动引用。
+
+为什么这是我心中的冠军方案
+创意：300 个妙招里几乎没有「灵魂拷问师」这种人格
+和你本人一致：Poke 破壳 + 复盘 + idea-forge 行动，不是硬凑
+评委好记：刘飞/GenJi 能讲成故事；歸藏 能做成视觉；陈祥 能看到 Agent 结构
+传播：用户会晒 「今天 AI 问我的一句话」，而不只是晒摘要
+任务赛道：SKILL.md + 双模式，比纯 Prompt 深，比纯脚本有灵魂
+60 秒视频我会怎么拍
+0–10s：刷同一类通知 / 群聊，「我每天都在看，但世界越来越窄」
+10–25s：Tabbit @ 常看页 + 运行 破壳模式 → 出现 1 条从没点过的机会 + 「如果去，你可能获得什么？」
+25–45s：晚上 复盘模式 → 3 行日记 + 明天一个小行动
+45–60s：「不是更多信息，是更好的问题。」+ 一键添加
+等待动画（你的 #2）
+Agent 跑的时候不要 spinner，用 一句 rotating 拷问：
+
+「你上次主动看圈外内容是什么时候？」
+「这条信息是在帮你，还是在安抚你？」
+「如果只能做一件事，会是哪一件？」
+小成本，体验 20 分 很赚。
+
+我的副方案（第二个妙招，专拉初审 adds）
+主方案偏「灵魂」，需要一个 一眼看懂、一秒想添加 的兄弟招式。
+
+名字：「通知页 deadline 透视」（脚本赛道）
+是什么
+在 .edu.cn 通知列表页上：
+
+每条标题旁显示 「还剩 X 天」
+7 天内 橙色，3 天内 红色
+点击可复制 班群一句话版
+为什么做它
+初审：Before/After 极强，adds 快
+终审：和主方案是同一故事的不同切片
+开发量小，6 月底前能稳交付
+不抢主方案创意，专门负责 功能完整度 30 分
+组合： 任务赛道冲冠军，脚本赛道冲 top 20% adds + 很会使招奖。
+
+我会怎么用你的 9 条（我的分配）
+你的 #	我的想法	角色
+1 信息茧房+拷问师
+✅ 产品灵魂
+主方案核心
+2 等待动画
+✅ 拷问句轮播
+体验加分
+3 讲故事
+✅ Poke 创始人叙事
+视频+社媒
+4 解决评委问题
+✅ 按评委拆 demo
+策略，不是功能
+5 记录灵感
+✅ 「记一条」按钮
+破壳与复盘之间的胶水
+6 日记复盘
+✅ 晚间模式
+主方案另一半
+7 提升审美
+⚠️ 结果语
+写在 slogan，不做功能名
+8 群聊收集
+⚠️ 粘贴输入
+底层，标题不提
+9 提升认知
+⚠️ 和 1、6 合并
+别单独做一个妙招
+我不会做 9 个妙招。我会做 2 个，但每个都把你 9 条里的精华吃进去。
+
+我刻意不做的（即使听起来很酷）
+想法	为什么不作为主方案
+纯「校园今日 3 件事」
+实用，但创意像通知 App，难拿满 30 分
+全自动采微信群
+合规+功能风险，评委不敢给高分
+Multi-Agent 炫技链
+陈祥可能欣赏，但 GenJi/刘飞 看到翻车就全毁
+纯「提升审美/认知」
+没有具体机制，终审会被问「到底做了什么」
+纯提示词赛道
+人太多，初审 adds 和创意都吃亏
+给四位评委的「定制答案」（我的 #4）
+评委	他们心里的问题	我的妙招怎么答
+歸藏
+美吗？
+固定输出模板 + 封面「破壳卡片」视觉 + 等待拷问句
+GenJi
+10 秒能学会吗？
+两模式：白天破壳 / 晚上复盘，各 3 步
+刘飞
+真改变行为吗？
+输出是 问题+行动，不是摘要
+陈祥
+Agent 靠谱吗？
+SKILL.md 两步流水线，不堆 10 个 agent
+文凡
+像 Tabbit 原生吗？
+@ 标签页 + 变量 + 任务 Skill 标准形态
+我的变量设计（开箱即用）
+变量	默认值	用途
+常看领域
+专业相关 / 竞赛 / 娱乐
+茧房诊断
+破壳强度
+温和 / 标准 / 狠一点
+拷问难度
+今日状态
+忙 / 正常 / 想摸鱼
+复盘语气
+明日目标
+学习 / 社交 / 休息
+micro-action 类型
+第一次添加就能跑，不用教用户填表 —— 这是初审 adds 的关键。
+
+传播我会怎么打（#3 + 大使奖）
+话题： #Tabbit妙招大赛
+
+三条内容：
+
+痛点帖：「推荐算法让你以为世界就是寝室+专业+游戏。」
+演示帖：截图 灵魂拷问 那一句（最可传播）
+故事帖：大学生做 Poke，发现缺的不是信息是 问题
+初审： 班级 20 人添加 + 即刻/B站 带话题
+大使奖： 第 2 条做成短图/短视频，专攻互动
+
+如果只能记住我的一套想法
+主菜：破壳拷问师（任务赛道）
+  = 白天破茧 + 灵魂拷问 + 记灵感
+  + 晚上认知日记 + 明日一小步
+配菜：deadline 透视（脚本赛道）
+  = 拉 adds + 证明功能稳
+叙事：我不是在做通知 App
+  = 我在做「AI 时代的认知教练」
+不做：自动爬群、9 功能堆砌、纯摘要
+和你之前方向的 honest 对比
+方案	我的评分（冲 ¥10k）
+校园机会决策台
+⭐⭐⭐⭐ 稳，创意略逊
+破壳拷问师（我的主方案）
+⭐⭐⭐⭐⭐ 创意顶，要控「不虚」
+班委发群神器
+⭐⭐⭐⭐ adds 强，灵魂弱
+9 个散点分别做
+⭐⭐ 分散，难赢
+我会选：破壳拷问师为主，校园通知当 demo 场景，脚本 deadline 为辅。
+
+如果你愿意继续 brainstorm，我可以下一条直接写：
+
+完整 SKILL.md 大纲（破壳模式 + 复盘模式）
+妙招广场标题+描述+封面文案（复制即用）
+7 天执行日历（6/12–6/30）
+你更想先要哪一块？或者你可以说：「主方案有没有太虚？」 —— 我们可以一起把它压到更具体、更稳。
+
+
+Good — let me go deeper and give you ideas that we haven't discussed yet. Fresh angles that could genuinely surprise the judges.
+
+First: The pattern I see in everything we discussed
+Our previous ideas all sit in the same family:
+
+"Read more efficiently" or "filter better"
+
+That's the same direction as 90% of the 300+ existing plaza skills.
+
+To win 创意 30分, you need something that makes judges pause and say:
+
+"I've never seen this angle before."
+
+So let me give you three completely fresh directions.
+
+Fresh Idea 1: 「苏格拉底提问机」
+Track: 任务妙招
+One line: 不给你答案，只给你更好的问题
+
+The concept
+Every productivity tool gives you more information.
+This one gives you better questions.
+
+You @ any webpage or paste any text
+→ Agent reads it
+→ Output: NOT a summary
+→ Output: 3 questions that challenge what you just read
+What the output looks like
+User reads: 「AI将取代50%的工作」
+
+Normal tool → "本文认为 AI 将影响就业市场..."
+
+苏格拉底机 →
+
+谁在这篇文章里没有发言权，但最受影响？
+如果这个预测是错的，你会希望它是错的吗？为什么？
+你今天做的哪一件事，是只有人类才能做的？
+Why this can win
+创意：广场里只有「答案工具」，没有「问题工具」
+传播：用户会截图分享那个问题，不会截图摘要
+哲学背景：苏格拉底式提问 = 两千年最有效的学习法
+你的故事：idea-forge 的灵感本质就是「提问」；Poke 的破壳也是从问题开始
+Variable design
+Variable	Options
+问题强度
+温和 / 标准 / 挑战
+问题方向
+批判性 / 创意性 / 行动性
+你的立场
+认同原文 / 持怀疑态度
+What makes it shareable
+The questions themselves are the content. A good question is more shareable than any summary.
+
+Fresh Idea 2: 「认知偏见侦探」
+Track: 任务妙招
+One line: 不是文章在骗你，是你的大脑在骗你
+
+The concept
+You read something. You have a reaction. But your reaction contains cognitive biases you can't see.
+
+@ any article / paste any text
+→ Agent detects: biases IN the text + biases YOU likely have reading it
+→ Output: "The text uses X, which makes you more likely to Y"
+→ Then: one concrete challenge to your assumption
+What the output looks like
+User reads: 一篇关于「躺平」有害的文章
+
+Output:
+
+📰 文章用了这些手法：
+- 选择性数据（只引用努力者成功案例）
+- 情感诉诸（用"责任感"触发愧疚）
+🧠 你读这篇文章可能有：
+- 确认偏见（如果你已经觉得躺平有问题）
+- 或逆向心理（如果你想反驳它）
+❓ 挑战你的一个假设：
+「如果"努力"和"躺平"都是别人定义的词，你自己怎么定义？」
+Why this is different from everything on the plaza
+Most skills help you consume content faster.
+This one makes you immune to manipulation — including your own.
+
+That's a completely different value proposition.
+
+Who shares it
+Anyone who reads the output and thinks: "I didn't realize I was doing this."
+That's an identity moment. Identity moments get shared.
+
+Fresh Idea 3: 「视角万花筒」
+Track: 任务妙招
+One line: 同一件事，五个完全不同的人怎么看
+
+The concept
+Any decision, article, or situation — seen through five radically different lenses simultaneously.
+
+Input: A topic, decision, or webpage
+→ Five perspectives:
+  1. 怀疑论者 — why this is wrong
+  2. 10年后的你 — does this still matter?
+  3. 领域外的人 — what does a biologist/artist/farmer see?
+  4. 最受影响但没发言权的人 — who's invisible here?
+  5. 你最尊敬的人 — what would they ask you?
+Why this is strong
+创意：No existing skill does simultaneous multi-perspective reframing
+Connects to idea-forge game mechanics — different roles seeing the same thing differently
+Practical: For decisions, articles, or career choices
+Judge: 刘飞 — podcaster who talks to many different types of people — will recognize the value immediately
+The "wow" output example
+User input: 「我要不要休学去创业？」
+
+🔍 怀疑论者：
+这个问题本身就是问错了，创业和休学为什么要绑定？
+⏳ 10年后的你：
+你现在纠结的是「做不做」，10年后你会问的是「为了什么做」
+🌿 领域外的人（农民视角）：
+农民永远不会在「种地」和「其他事」之间反复纠结，因为他们知道：不种就没收成
+👁 没发言权但最受影响的人：
+你的父母，他们可能从来没被问过意见
+💡 你最尊敬的人会问：
+你现在最害怕的是什么？这个害怕是真实的还是来自别人的眼光？
+Fresh Idea 4 (my personal favorite)
+「给未来自己的信」
+Track: 任务妙招
+One line: 三个月后的你，会对今天的你说什么
+
+The concept
+Based on what you're reading, doing, and worrying about right now — AI writes a letter from your future self.
+
+Not generic advice. Based on your actual context from the tabs you @ today.
+
+@ recent tabs + fill in: 
+  今天在做什么 / 最近的担心 / 一个模糊的感觉
+→ Agent writes: 
+  Letter from 3-months-future you
+  → Acknowledges the worry
+  → Points out what you're missing
+  → Asks one question
+  → Ends with what future-you is grateful for
+Why this is different
+Emotionally resonant in a way no summary tool can be
+Output is personal, not generic
+Almost guaranteed to be shared — "AI wrote me a letter from my future self"
+Connects 信息输入 → 人生反思 in one move
+Example output
+亲爱的今天的你，
+我知道你现在在做三件事，但心里只有一件。
+那个让你睡不好的事，其实你已经知道答案了，
+只是不想承认，因为承认了就要行动。
+三个月后，你没有后悔你当时纠结的那件事，
+但你后悔了没有早点...
+有一件事我想问你：
+如果你今天做了决定，最坏的结果是什么？
+那个最坏的结果，你真的没办法承受吗？
+未来的你
+This output makes people stop scrolling.
+
+How these four compare
+Idea	创意	功能稳定性	传播力	和你的故事
+苏格拉底提问机
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
+认知偏见侦探
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
+⭐⭐⭐
+视角万花筒
+⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
+给未来自己的信
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
+⭐⭐⭐⭐⭐
+⭐⭐⭐⭐
+My honest pick: combine two
+The strongest submission I can imagine is:
+
+「苏格拉底 × 破壳」
+White-day mode: 苏格拉底提问机 + 破壳推荐
+Night mode: 给未来自己的信（based on today's questions）
+
+Morning → read something → get 3 Socratic questions
+→ write one answer → tap "记一条"
+Evening → those answers become the raw material
+→ AI writes a letter from 3-months-future you
+→ ends with one micro-action for tomorrow
+This is a complete thought loop:
+Better questions in → deeper reflection out → braver action taken
+
+What makes this champion-worthy in one sentence
+广场里有 300 个「让你知道更多」的妙招。
+这个是第一个「让你想得更深」的。
+
+Where to go next
+Tell me which resonates:
+
+「苏格拉底」 — I'll write the full SKILL.md + output template
+「认知偏见」 — I'll design the bias detection logic + demo
+「未来的信」 — I'll write a full example letter + variable design
+「全部融合」 — I'll design the unified two-mode Skill architecture
+Or just say: 「这个比破壳拷问师更好还是更差」 and we'll debate it openly.
+
+
+Yes. More suitable for you, not just “creative in general”, means the idea must connect these four things:
+
+Poke + campus information + AI reflection + Tabbit task/skill format.
+
+So I would stop chasing random “cool” ideas and build around one stronger theme:
+
+从信息过载，到认知跃迁。
+Not “read faster”, but “think better and act better”.
+
+Here are my better ideas.
+
+1. 「破壳雷达」 Campus Bubble Breaker
+This is the most suitable for you.
+
+One-line:
+帮大学生从每天的校园通知、群聊、网页里，找到“今天最值得行动的 3 件事”和“1 条打破信息茧房的机会”。
+
+Why it fits you:
+It directly connects to Poke. Your app already collects campus messages and filters noise. This Tabbit skill becomes the browser version of Poke.
+
+Output:
+
+## 今日值得行动的 3 件事
+1. ...
+2. ...
+3. ...
+## 破壳推荐
+这条信息不在你平时关注范围内，但它可能帮你打开一个新视角。
+## 灵魂拷问
+如果你一直只看本专业/本圈层的信息，三个月后你会错过什么？
+Why it can compete:
+It is practical + emotional + campus-specific. Not just summary.
+
+2. 「灵魂拷问师」 Socratic Questioner
+This is the most creative, but must be grounded.
+
+One-line:
+不给你答案，只问你真正该面对的问题。
+
+User gives:
+
+a webpage
+an article
+a school notice
+a personal idea
+a decision
+The skill returns:
+
+3 Socratic questions
+1 hidden assumption
+1 action challenge
+Example:
+
+你正在关注“竞赛通知”。
+灵魂拷问：
+1. 你是因为真的想参加，还是害怕错过？
+2. 如果这件事不能写进简历，你还会去吗？
+3. 这件事和你一年后的方向有什么关系？
+明日行动：
+找一个已经参加过类似比赛的人，问他真实收益。
+Why it is creative:
+Most AI tools answer. This one forces thinking.
+
+Risk:
+Too abstract if not tied to real pages. So I would combine it with Poke/campus input.
+
+3. 「三个月后的我」 Future-Self Letter
+This is emotionally powerful and shareable.
+
+One-line:
+根据你今天看的网页、记录的灵感和焦虑，写一封“三个月后的自己”给今天的信。
+
+Input:
+
+today’s tabs
+what you are worrying about
+what you are trying to build
+Output:
+
+亲爱的今天的你：
+你现在以为自己缺的是更多资料，
+但其实你缺的是一个小行动。
+三个月后的我想告诉你：
+你真正进步的那一天，不是你看完十篇文章，
+而是你第一次把 Poke 发给真实用户的那天。
+今天的问题：
+如果你只能推进一件事，哪一件最接近真实反馈？
+Why it can spread:
+People like sharing personal AI letters. It has emotion.
+
+Best use:
+As the “night mode” of your main skill.
+
+4. 「班委救星」 Class Monitor Notice Transformer
+This is less poetic, but very practical.
+
+One-line:
+把学校官网通知一键改写成班群可转发版本。
+
+Input:
+
+@教务处通知页
+@学院官网
+pasted announcement
+Output:
+
+【重要通知｜奖学金申请】
+同学们注意：
+国家奖学金申请即将截止。
+截止时间：6月20日 17:00
+提交地点：学院教务办
+适合人群：符合 GPA / 综测条件的同学
+建议：
+今天先确认材料清单，明天前完成初稿。
+Why it may get adds:
+班委、社团负责人、助班真的会用。初审靠添加量，这种很有优势。
+
+Risk:
+创意分不如“破壳/拷问师”。
+
+5. 「信息饮食报告」 Information Diet Report
+This is very creative and fits “提升认知”.
+
+One-line:
+分析你最近看的网页/收藏夹，告诉你你的信息摄入是不是太单一。
+
+Output:
+
+## 你的信息饮食
+你最近主要摄入：
+- AI 工具：60%
+- 编程教程：25%
+- 校园机会：10%
+- 人文/设计/商业：5%
+## 你的认知盲区
+你几乎没有接触：
+- 用户研究
+- 商业定价
+- 审美设计
+- 线下活动
+## 今日破壳建议
+去看一篇不是技术文章的内容，并回答：
+“这件事能不能改变我做 Poke 的方式？”
+Why it is good:
+It turns browsing history/tabs into self-awareness. Very Tabbit-native.
+
+My Best Combined Idea
+If I had to choose one final direction for you:
+
+「破壳 · 认知雷达」
+One-line:
+从你每天看到的信息里，找出今天该行动的事、你没看到的机会、以及真正该问自己的问题。
+
+It has three modes:
+
+1. 今日行动
+From campus notices / group messages:
+
+today’s 3 useful things
+deadline
+why it matters
+2. 破壳推荐
+From outside your normal interest:
+
+one unfamiliar but valuable opportunity
+why it expands your view
+3. 灵魂复盘
+At night:
+
+what you learned
+what assumption was challenged
+one question for tomorrow
+This combines your 9 ideas into one clear product:
+
+Your idea	Where it goes
+信息茧房
+Core identity
+灵魂拷问师
+Reflection engine
+小动画
+UX polish
+讲故事
+Demo/video
+解决评委问题
+Strategy
+记录灵感
+Input
+AI日记复盘
+Night mode
+提升审美/认知
+Outcome
+收集群聊消息
+Data source
+My Honest Recommendation
+Do not make the main idea “收集群聊消息”. That is too technical and ordinary.
+
+Do not make the main idea “AI 写日记”. That is too common.
+
+Do not make the main idea “提升认知”. Too abstract.
+
+Make the main idea:
+
+破壳 · 认知雷达
+帮大学生从信息过载里找到行动，从信息茧房里找到新视角，从每天经历里提炼成长。
+
+This is more suitable for you because it connects:
+
+your Poke app
+your campus life
+your AI Agent direction
+your desire to grow
+the Tabbit contest scoring: creative, useful, shareable, polished.
